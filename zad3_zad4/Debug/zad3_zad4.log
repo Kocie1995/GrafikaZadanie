@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  zad3_zad4.cpp
+e:\zzz\nowy folder (2)\zad3_zad4\zad3_zad4\zad3_zad4.cpp(31): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+e:\zzz\nowy folder (2)\zad3_zad4\zad3_zad4\zad3_zad4.cpp(46): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+  zad3_zad4.vcxproj -> E:\zzz\Nowy folder (2)\zad3_zad4\Debug\zad3_zad4.exe
+  zad3_zad4.vcxproj -> E:\zzz\Nowy folder (2)\zad3_zad4\Debug\zad3_zad4.pdb (Partial PDB)
